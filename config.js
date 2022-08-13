@@ -41,8 +41,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['642781199999'] //ur owner number
-global.ownername = "Ramaa Adisson"
+global.owner = ['436993190999919'] //ur owner number
+global.ownername = "Halfy"
 global.ytname = "HalfyDesu" //ur yt chanel name
 global.socialm = "Instagram: @khlfyrmdni" //ur github or insta name
 global.location = "Japan, Tokyo" //ur location
@@ -59,8 +59,8 @@ global.ownertag = ['6285607588713'] //ur owner tag
 global.ownernummenu = ['+79046058070'] //ur owner number in menu and all
 global.watermark = "Riakimu-BOT" //ur watermark
 global.botscript = "https://instagram.com/khlfyrmdni"
-global.linkz1 = "https://wa.me/642781199999?text=Assalamualaikum"
-global.linkz2 = "https://wa.me/642781199999?text=Assalamualaikum"
+global.linkz1 = "https://wa.me/436993190999919?text=Assalamualaikum"
+global.linkz2 = "https://wa.me/436993190999919?text=Assalamualaikum"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
