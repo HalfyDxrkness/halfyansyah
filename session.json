@@ -50,7 +50,65 @@
     },
     "me": {
       "id": "6285893892553:10@s.whatsapp.net",
+      "verifiedName": "",{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "wK+9NyP3qkyOnK3gVuwAtZfsUM2qH++66IaP6Z/wSkk="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "cYlx8Tt5WNUEWm9Oo00fxiFImfuyVb0K7KLuX84uqCM="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "uJGiUD4P0esuRk+I/YR3aYAQ2ELRLCrTcMqwJbUr4m0="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "Wi2frmTBmkMsPWBERTHxsYGVk7eAWsp5nrxdASHP0C8="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "uMt8PXhgADw03J1ykhsd0KVLNRmc86njj9nytd2ommQ="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "GxfOLamL0cv3rbJGVIdDuAep7ZAmDQLLcjnth2PLNiA="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "/8F+QcWk5n8TUvQ7qzKNhXpuCi4v2kpsmYlZV2aHHLTiE/fY8Ms6Bi2NUftK3XpJF1IedzqiEn8r/E0IO7Hxjg=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 151,
+    "advSecretKey": "5BfzD3xNtXeJSV/8t547xtCSwAy7Z5N9IvDNTyKYfjU=",
+    "nextPreKeyId": 31,
+    "firstUnuploadedPreKeyId": 31,
+    "serverHasPreKeys": true,
+    "account": {
+      "details": "CObVrL0GELnIxJcGGAE=",
+      "accountSignatureKey": "aQR94ChXshJwBsmYTbfvB/qqXEJ3hLOAPhScCsBA8Fw=",
+      "accountSignature": "4AR+uJYPMrgnmFYVDzBBaPqVXmABObvloS6VxsSnCOpvGhDjJJBKAKPbRQfTrMyrFZRUvbX77a7GSgk/b12kAA==",
+      "deviceSignature": "r7WLO2QWpvL5TzdOll8jKH0xHEBWwToBtyUGgn62xWLCeIUPiRF3mZjHNStcSb9WShBdwCxaEnK78oWb4fTFjA=="
+    },
+    "me": {
+      "id": "6285893892553:10@s.whatsapp.net",
       "verifiedName": "",
+      "name": "Riakimu"
+    },
+    "signalIdentities": [
+      {
+        "identifier": {
+          "name": "6285893892553:10@s.whatsapp.net",
       "name": "Riakimu"
     },
     "signalIdentities": [
